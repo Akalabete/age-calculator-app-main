@@ -1,1 +1,0 @@
-{"version":3,"sources":["..\\..\\main.scss"],"names":[],"mappings":"AAAA;;;;;sBAAA","file":"main.css","sourcesContent":["/*@import \"variables\";\r\n@import \"base\";\r\n@import \"layout\";\r\n@import \"components\";\r\n@import \"home\";\r\n@import \"responsive\";*/"]}

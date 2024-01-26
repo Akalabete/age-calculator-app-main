@@ -1,0 +1,24 @@
+.border {
+  border-bottom: solid 1px hsl(0, 0%, 86%);
+  text-align: center;
+}
+
+.separator {
+  margin: 70px auto;
+  width: 100%;
+  position: relative;
+}
+
+.submit-button {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: -20px;
+}
+
+/*@import "base";
+@import "layout";
+@import "components";
+@import "responsive";*/
+
+/*# sourceMappingURL=style.css.map */

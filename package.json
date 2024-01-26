@@ -1,0 +1,22 @@
+{
+    "name": "age-counter",
+    "version": "1.0.0",
+    "description": "front-end mentor project",
+    "main": "index.js",
+    "scripts": {
+        "sass": "sass --watch ./main.scss:./assets/css/style.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Akalabete/age-calculator-app-main"
+    },
+    "author": "@k@666",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Akalabete/age-calculator-app-main/issue"
+    },
+    "homepage": "https://github.com/Akalabete/age-calculator-app-main",
+    "dependencies": {
+        "sass": "^1.70.0"
+    }
+}
